@@ -1,0 +1,435 @@
+
+.backback{
+  background-color: white;
+  border-radius: 5px;
+}
+
+.navbar {
+  background-color: back;
+}
+
+.james{
+  font-weight: lighter;
+}
+
+
+.stylin {
+border: 1px;
+border-Style: solid;
+border-Color: grey;
+width: 100%;
+margin-Bottom: 0;
+}
+
+/* Style The Dropdown Button */
+.dropbtn {
+  cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown li {
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  margin-left: 5%;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: white;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  color: #e5e5e5;
+}
+
+
+.logoutb {
+  margin-top: 0%;
+  margin-left: 5%;
+  display: inline-block;
+}
+
+.loginb {
+  margin-top: 0%;
+  margin-left: 5%;
+}
+
+.moverr {
+  float: none;
+  margin-top: 3%;
+  display: block;
+}
+
+.inputr {
+  float: none;
+  margin-top:3%;
+  display: block;
+}
+
+.first {
+  display: inline;
+}
+
+  .runner {
+    border: 2px solid grey;
+    margin-bottom: 1%;
+    margin-left: 2%;
+  }
+
+
+  .mover {
+    margin-bottom: 2%;
+    border: 1px;
+  }
+
+ .one div {
+   color: black;
+   display: inline-block;
+ }
+
+ .two div {
+   color: black;
+   margin-left: 2%;
+   display: inline-block;
+ }
+
+ .three div {
+   color: black;
+   margin-left: 2%;
+   display: inline-block;
+ }
+
+ .four div {
+   margin-left: 2%;
+   display: inline-block;
+ }
+
+
+ .ten {
+   margin-left: 2%;
+   width: 10%;
+   border-color: black;
+   display: inline-block;
+ }
+
+  .b1 {
+    color: blue;
+    margin-left: 15%;
+    border: solid;
+    border-width: 1px;
+    display: inline-block;
+  }
+
+  .b2{
+    color: green;
+    margin-left: 2%;
+    border: solid;
+    border-width: 1px;
+    display: inline-block;
+  }
+
+  .b3{
+    color: #ffcc00;
+    margin-left: 2%;
+    border: solid;
+    border-width: 1px;
+    display: inline-block;
+  }
+
+  .b4{
+    color: gray;
+    margin-left: 1%;
+    border: solid;
+    border-width: 1px;
+    display: inline-block;
+  }
+
+  .b5{
+    color: tomato;
+    margin-left: 2%;
+    border-width: 2px;
+    display: inline-block;
+  }
+
+  .b6{
+    color: #ff0000;
+    margin-left: 2%;
+    display: inline-block;
+  }
+
+  .ourId {
+    font-size: 20px;
+    font-weight: bold;
+    color: #0080ff;
+    margin-left: 2%;
+    margin-bottom: 0%;
+  }
+
+  .daTitle {
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    font-weight: thin;
+    margin-left: 2%;
+    margin-bottom: 0%;
+  }
+
+  .quant {
+    font-size: 20px;
+    font-weight: thin;
+    margin-left: 2%;
+    margin-bottom: 0%;
+  }
+
+  .moveDel {
+    margin-left: 80%;
+  }
+
+  .recHead {
+    width: 50%;
+    margin-left: 25%;
+  }
+
+ .theBod {
+   margin-top: 7%;
+ }
+
+ .ourIder {
+   font-size: 15px;
+   font-family: georgia;
+   color: black;
+   letter-spacing: 2px;
+   text-align: center;
+   border: solid;
+   border-color: grey;
+   width: 100%;
+   border-width: 1px;
+   border-radius: 5px;
+ }
+
+ .recycleMan {
+   color: green;
+   margin-top: 2%;
+   margin-left: 15%;
+   border: solid;
+   width: 70%;
+   border-width: 1px;
+   border-radius: 8px;
+}
+
+.recycleManT {
+  font-size: 25px;
+  margin-left: 30%;
+}
+
+.shrink {
+  font-size: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25px;
+  border-color: #ffd699;
+}
+
+.profileB {
+  margin-left: 2%;
+   margin-top: 2%;
+   margin-bottom: 2%;
+    font-weight: 300;
+}
+
+
+
+@media only screen and (min-width: 768px){
+.backback {
+  background-color: white;
+}
+
+.dropdown-content a {
+  color: black;
+  margin-left: 1%;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.stylin {
+border: 1px;
+border-Style: solid;
+border-Color: grey;
+width: 30%;
+margin-Bottom: 0;
+}
+
+.logoutb {
+  margin-top: 0%;
+  margin-left: 5%;
+
+}
+
+.loginb {
+  margin-top: 0%;
+  margin-left: 5%;
+}
+.moverr {
+  float: right;
+}
+
+.inputr {
+  float: right;
+}
+
+.btnsliner {
+  display: inline-block;
+  margin-left: 5%;
+}
+
+
+
+.caddy .b1{
+  color: blue;
+  margin-left: 5%;
+  border-width: 2px;
+  border-color: silver;
+}
+
+.caddy .b2{
+  color: green;
+  margin-left: 2%;
+  border-width: 2px;
+  border-color: silver;
+}
+
+.runner {
+  margin-left: 2%;
+  border-radius: 2px;
+  margin-bottom: 1%;
+  margin-left: 2%;
+}
+
+.one div {
+  color: black;
+  margin-left: 2%;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.two div {
+  color: black;
+  font-weight: bold;
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.three div {
+  color: black;
+  font-weight: bold;
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.four div {
+  color: red;
+  font-weight: bold;
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.five button {
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.six button {
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.seven button{
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.eight button {
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.nine button {
+  margin-left: 2%;
+  display: inline-block;
+}
+
+.ten {
+  margin-left: 2%;
+  border-radius: 5px;
+  width: 5%;
+  display: inline-block;
+}
+
+.eleven {
+    margin-left: 2%;
+    display: inline-block;
+}
+
+.theBod {
+  margin-top: 2%;
+}
+
+.ourIder {
+    font-size: 25px;
+    font-family: georgia;
+    color: black;
+    letter-spacing: 2px;
+    text-align: center;
+    border: solid;
+    border-color: grey;
+    margin-left: 15%;
+    width: 75%;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+.recycleMan {
+  margin-top: 2%;
+  margin-left: 20%;
+  border: solid;
+  width: 65%;
+  border-width: 1px;
+  border-radius: 8px;
+}
+
+.recycleManT {
+  font-size: 25px;
+  margin-left: 40%;
+}
+
+
+
+}
